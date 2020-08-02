@@ -56,7 +56,6 @@ class EncoderDecoderConfig(PretrainedConfig):
             >>> # Accessing the model configuration
             >>> config_encoder = model.config.encoder
             >>> config_decoder  = model.config.decoder
-
     """
     model_type = "encoder_decoder"
 
